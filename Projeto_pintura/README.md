@@ -1,4 +1,4 @@
-Deve-se executar os comandos
+Deve-se executar os comandos na pasta
 
 ```sh
 source install/local_setup.bash
